@@ -48,3 +48,14 @@ This site contains my most relevant Data Science projects, varying from pure Dat
 
 ![](/images/map.PNG)
 
+
+### [Project 6: Index calculation through Data Envelopment Analysis](https://github.com/FoxHound112263/Data-Envelopment-Analysis)
+* Mathematical and computational economics
+* Algebraic topology
+* Judicial efficiency
+
+![](/images/frontier2.PNG)
+
+
+
+
