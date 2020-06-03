@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/FoxHound112263/PortfolioCM
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [Project 1](https://github.com/FoxHound112263/TwitterPeaceCol)
+### [Project 1: Twitter Data Science](https://github.com/FoxHound112263/TwitterPeaceCol)
 * Analysis over the Plebiscito process from 2016 in Colombia
 * Descriptive and time analysis
 * Created weighted networks, both static and dynamic
