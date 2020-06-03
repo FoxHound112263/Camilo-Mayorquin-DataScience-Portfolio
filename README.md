@@ -1,4 +1,4 @@
-## Camilo Mayorquín Data Science Portfolio
+## Data Science Portfolio
 
 This site contains my most relevant Data Science projects, varying from pure Data Science to Machine Learning and Web Apps.
 
