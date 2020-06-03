@@ -38,3 +38,12 @@ This site contains my most relevant Data Science projects, varying from pure Dat
 * Text mining
 
 ![](/images/cluster.PNG)
+
+
+### [Project 5: Interactive web map for innovation teams](https://github.com/FoxHound112263/Innovation-Mapping)
+* Coordinates to polygons
+* Shiny web app
+* Public Innovation
+
+![](/images/map.PNG)
+
