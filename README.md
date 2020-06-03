@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Camilo Mayorquín Portfolio
 
 You can use the [editor on GitHub](https://github.com/FoxHound112263/PortfolioCM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [Project 1](https://github.com/FoxHound112263/TwitterPeaceCol)
+* Analysis over the Plebiscito process from 2016 in Colombia
+* Descriptive and time analysis
+* Created weighted networks, both static and dynamic
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://github.com/FoxHound112263/TwitterPeaceCol/blob/master/output/community.png)
+
+
 
 ```markdown
 Syntax highlighted code block
