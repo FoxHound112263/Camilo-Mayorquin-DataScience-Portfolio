@@ -44,6 +44,7 @@ This site contains my most relevant Data Science projects, varying from pure Dat
 * Coordinates to polygons
 * Shiny web app
 * Public Innovation
+* App available here: https://camilo112263.shinyapps.io/Innovation-Mapping/
 
 ![](/images/map.PNG)
 
