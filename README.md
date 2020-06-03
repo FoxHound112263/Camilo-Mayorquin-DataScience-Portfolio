@@ -28,4 +28,4 @@ This site contains my most relevant Data Science projects, varying from pure Dat
 * Use of R Markdown for automatic reports
 * General statistics
 
-![](/images/part6.png)
+![](/images/part6.PNG)
