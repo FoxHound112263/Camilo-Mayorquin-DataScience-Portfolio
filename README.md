@@ -1,4 +1,4 @@
-## Camilo Mayorquín Portfolio
+## Camilo Mayorquín Data Science Portfolio
 
 This site contains my most relevant Data Science projects, varying from pure Data Science to Machine Learning and Web Apps.
 
@@ -55,6 +55,19 @@ This site contains my most relevant Data Science projects, varying from pure Dat
 * Judicial efficiency
 
 ![](/images/frontier2.PNG)
+
+
+### [Teaching](https://github.com/FoxHound112263/TeachingDS)
+* Fundamentals of Data Science, Machine Learning and Artificial Intelligence
+* Exploratory analysis
+* Visualizations
+* Lienar models
+* Supervised and Unsupervised Learning
+* Crossvalidation and Regularization
+* Natural Language Processing
+
+![](/images/net.jpg)
+![](/images/ejemplo.png)
 
 
 
