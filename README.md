@@ -5,13 +5,24 @@ You can use the [editor on GitHub](https://github.com/FoxHound112263/PortfolioCM
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### [Project 1: Twitter Data Science](https://github.com/FoxHound112263/TwitterPeaceCol)
-* Analysis over the Plebiscito process from 2016 in Colombia
-* Descriptive and time analysis
-* Created weighted networks, both static and dynamic
+* Used of open data
+* Text mining: descriptive and temporal
+* Network analysis
+  - Weighted networks of bigrams
+  - Skipgram
+  - Community detection
+  - Correlations
 
 ![](/images/community.png)
 
 
+### [Project 2: Fight Human Trafficking with News](https://github.com/FoxHound112263/DataJam2019-HF)
+* Text mining from national and international news realted to human traffciking
+* Unsupervised Learning: clustering
+* Term frequency - Inverse Term Frequency
+* Quanteda tools
+
+![](/images/find.png)
 
 ```markdown
 Syntax highlighted code block
