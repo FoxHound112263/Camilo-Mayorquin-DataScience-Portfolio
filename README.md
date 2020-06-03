@@ -29,3 +29,12 @@ This site contains my most relevant Data Science projects, varying from pure Dat
 * General statistics
 
 ![](/images/part6.PNG)
+
+
+### [Project 4: Text mining for policy making of CONPES documents](https://github.com/FoxHound112263/CONPES_DS)
+* Optical Character Recognition
+* Dashboard building
+* Clustering and tagging
+* Text mining
+
+![](/images/cluster.PNG)
