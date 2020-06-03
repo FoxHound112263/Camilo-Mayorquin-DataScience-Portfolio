@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * Descriptive and time analysis
 * Created weighted networks, both static and dynamic
 
-![](/images/your_image.png)
+![](/images/community.png)
 
 
 
